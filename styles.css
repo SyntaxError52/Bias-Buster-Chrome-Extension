@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+}
+body {
+    font-family: 'Courier New', Courier, monospace;
+    width: 350px;
+}
+.title {
+    background-color: burlywood;
+}
+.compus {
+    background: linear-gradient(red, blue);
+    height: 500px;
+}
+.network {
+    font-size: 20px;
+}
